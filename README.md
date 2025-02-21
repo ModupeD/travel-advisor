@@ -2,7 +2,7 @@
 
 I built a travel Advisor using Google Maps API. This advisors shows you best resturants and hotels in the location you type in.
 
-## Video
+## Video Demo
 
 
 https://github.com/user-attachments/assets/405906cb-6080-4b3c-9469-62c319f667cd
