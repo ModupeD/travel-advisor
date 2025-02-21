@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Travel Advisor Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I built a travel Advisor using Google Maps API. This advisors shows you best resturants and hotels in the location you type in.
 
-## Available Scripts
+## Video
+
+
+https://github.com/user-attachments/assets/405906cb-6080-4b3c-9469-62c319f667cd
+
 
 In the project directory, you can run:
 
